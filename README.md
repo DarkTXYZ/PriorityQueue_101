@@ -1,5 +1,5 @@
 # PriorityQueue_101
-- ## **Heap**
+## **Heap**
   - Priority Compare (minHeap , maxHeap)
   - Percolation
   - Complete Binary Tree Array Implementation :
